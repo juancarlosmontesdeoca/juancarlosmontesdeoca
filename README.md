@@ -1,6 +1,14 @@
 # Hola, soy Juan Carlos Montes de Oca 👋 
 ### Data Scientist | Risk Specialist | Machine Learning 
 
+<img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/f680657e-748a-4d56-91a7-45ceac051aab" />
+
+
+
+
+
+
+
 Actuario (UCV) con trayectoria en la intersección del **modelado estocástico** y el **Machine Learning**. Me especializo en diseñar arquitecturas de datos que mitigan riesgos financieros y operativos mediante análisis predictivo y automatización de flujos de trabajo.
 
 ---
