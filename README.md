@@ -1,9 +1,9 @@
+
 # Hola, soy Juan Carlos Montes de Oca 👋 
 ### Data Scientist | Risk Specialist | Machine Learning 
 
-<img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/f680657e-748a-4d56-91a7-45ceac051aab" />
 
-
+<img width="2017" height="528" alt="image_47031e48" src="https://github.com/user-attachments/assets/5fac2467-2c5e-4a3b-9403-96ae6669f588" />
 
 
 
